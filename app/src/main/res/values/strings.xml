@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LegoCatalog</string>
+    <string name="legothemes_title">Themes</string>
+    <string name="legoset_details_title">Set details</string>
+    <string name="menu_item_share">Share</string>
+    <string name="share_lego_set">Check out %s Lego set : %s</string>
+    <string name="year">Year: %d</string>
+    <string name="number_of_parts">Number of parts: %d</string>
+    <string name="legosets_title">Browse All Sets</string>
+    <string name="navigation_drawer_header_title">LEGO®</string>
+    <string name="grid">Switch between grid and list</string>
+</resources>
